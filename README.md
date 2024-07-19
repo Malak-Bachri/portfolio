@@ -20,6 +20,8 @@ Piano Teacher | Casablanca, Morocco & Magnolia, Arkansas
   - DART Research Project: Persistent Homology Net (PH-Net)
   - Cybersecurity Research Project: Phishing Detection in mobile phone websites
 
+![Cybersecurity](assests/cybersecurity.jpg)
+
 ### Programming Skills
   - PYTHON
   - JAVA

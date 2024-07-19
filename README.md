@@ -1,5 +1,6 @@
 # Computer Science Student
 
+![banner](assests/banner.png0
 ### Education
 B.S, Computer Science | Southern Arkansas University, Magnolia
   - Expected Graduation: May 2026

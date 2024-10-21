@@ -6,7 +6,7 @@ B.S, Computer Science | Southern Arkansas University, Magnolia
   - Expected Graduation: May 2026
   - Honors Student
 
-### Word Experience
+### World Experience
 Library Student Worker | Magale Library at Southern Arkansas University, Magnolia
   - Takes care of the check-out desk by helping students rent library materials and use library resources
 Assists students in their literature research.
@@ -33,8 +33,9 @@ Piano Teacher | Casablanca, Morocco & Magnolia, Arkansas
   - PHPMyAdmin
   - Kotlin
   - xml
-  - Jupiter Notebook
-  - Google Collab
+  - LINUX
+  - Jupyter Notebook
+  - Google Colaboratory
   - Github
 
 

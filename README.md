@@ -18,8 +18,8 @@ Piano Teacher | Casablanca, Morocco & Magnolia, Arkansas
 
 ### Academic Projects
   - CERTIFICATE OF COMPLETION - ARKANSAS SUMMER RESEARCH INSTITUTE (ASRI), Data Analytics that are Robust and Trusted (DART)
-  - DART Research Project: Persistent Homology Net (PH-Net)
-  - Cybersecurity Research Project: Phishing Detection in mobile phone websites
+  - DART Research Project: Persistent Homology & Segment Anything Model (PH-SAM)
+  - Cybersecurity Research Project: Phishing Detection in Mobile Phones
 
 ![Cybersecurity](assests/cybersecurity.jpg)
 
@@ -33,7 +33,7 @@ Piano Teacher | Casablanca, Morocco & Magnolia, Arkansas
   - PHPMyAdmin
   - Kotlin
   - xml
-  - LINUX
+  - LINUX Terminal
   - Jupyter Notebook
   - Google Colaboratory
   - Github
